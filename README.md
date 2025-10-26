@@ -11,6 +11,7 @@ This repository contains a machine learning project that predicts **transport co
 | **Model_training.ipynb** | Jupyter Notebook containing data preprocessing, model training, and evaluation. |
 | **ML_A1_Report.pdf** | Final report summarizing the project, methods, and results. |
 | **Predictions/** | Folder for storing model predictions or output files. |
+| **Data/** | Folder for storing given and processed data. |
 | **.gitignore** | Specifies files and folders ignored by Git. |
 | **README.md** | Project documentation (this file). |
 
